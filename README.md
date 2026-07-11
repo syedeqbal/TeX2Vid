@@ -40,6 +40,7 @@ TeX2Vid converts a LaTeX source into a narrated video presentation. **Every figu
 1. Go to **[tex2vid.sheqai.com](https://tex2vid.sheqai.com)**
 2. Upload your LaTeX source or paste an arXiv link.
 3. Pick a format, audience, and voice.
-4. Render — then share, or publish to **[ScholarReels](https://scholarreels.com).** <img width="787" height="145" alt="image" src="https://github.com/user-attachments/assets/674efc65-30e2-4470-b858-3d5d70aae966" /> [https://scholarreels.com](https://scholarreels.com)
+4. Render — then share, or publish to **[ScholarReels](https://scholarreels.com).** <img width="787" height="145" alt="image" src="https://github.com/user-attachments/assets/674efc65-30e2-4470-b858-3d5d70aae966" />
+[https://scholarreels.com](https://scholarreels.com)
 
 -------
