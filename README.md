@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# TeX2Vid
+# SheQAI's TeX2Vid Tool 
 
 **Turn your LaTeX paper into a narrated, source-grounded video — in minutes.**
 
