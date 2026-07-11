@@ -8,7 +8,8 @@
 **Turn your LaTeX paper into a narrated, source-grounded video — in minutes.**
 
 [![Website](https://img.shields.io/badge/Try_it-tex2vid.sheqai.com-00b4d8?style=flat&logo=googlechrome&logoColor=white)](https://tex2vid.sheqai.com)
-[![By SheQAI Research](https://img.shields.io/badge/By-SheQAI_Research-1a6bff?style=flat)](https://sheqai.com) [![Watch Examples on ScholarReels](https://img.shields.io/badge/Watch-Examples-on-ScholarReels-df8b5e?style=flat)](https://scholarreels.com)
+[![By SheQAI Research](https://img.shields.io/badge/By-SheQAI_Research-1a6bff?style=flat)](https://sheqai.com)
+[![Watch Examples on ScholarReels](https://img.shields.io/badge/Watch-Examples_on_ScholarReels-df8b5e?style=flat)](https://scholarreels.com)
 
 </div>
 
