@@ -1,7 +1,6 @@
 <div align="center">
 
 # SheQAI's TeX2Vid Tool 
-https://scholarreels.com/reels/4fba57056b294ef9b28d2738acc2ab49
 
 **Converts your LaTeX paper into a narrated, source-grounded video — in minutes.**
 
