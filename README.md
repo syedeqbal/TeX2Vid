@@ -5,7 +5,7 @@
 
 # SheQAI's TeX2Vid Tool 
 
-**Turn your LaTeX paper into a narrated, source-grounded video — in minutes.**
+**Converts your LaTeX paper into a narrated, source-grounded video — in minutes.**
 
 [![Website](https://img.shields.io/badge/Try_it-tex2vid.sheqai.com-00b4d8?style=flat&logo=googlechrome&logoColor=white)](https://tex2vid.sheqai.com)
 [![Watch Examples on ScholarReels](https://img.shields.io/badge/Watch-Examples_on_ScholarReels-df8b5e?style=flat)](https://scholarreels.com)
@@ -18,7 +18,7 @@
 
 ## What it does
 
-TeX2Vid converts a LaTeX source into a narrated video presentation. **Every figure, result, and citation is grounded in your paper** — each spoken and on-screen claim traces back to the LaTeX source, so the video says what your paper says.
+TeX2Vid converts a LaTeX source into a narrated video presentation. **Every figure, result, claim, and attribution is grounded in the source paper** — each spoken and on-screen claim traces back to the LaTeX source, so the video says what the source paper says.
 
 ## Formats
 
@@ -31,8 +31,8 @@ TeX2Vid converts a LaTeX source into a narrated video presentation. **Every figu
 
 ## Features
 
-- 🔗 **Grounded & verifiable** — claims traced to source spans in your paper.
-- 🎙️ **AI narration or your own voice** — record yourself or use synthesized speech.
+- 🔗 **Grounded & verifiable** — claims traced to source paper.
+- 🎙️ **AI narration or your own voice** — record yourself or use AI synthesized speech.
 - 🎨 **Configurable Beamer themes** and researcher / general-public audience settings.
 - 📚 **Broad field support** — CS, ML, NLP, CV, math, physics, statistics, EE, biology, economics, and more.
 - 📄 **Template-compatible** — works with Nature, Science, PNAS, NeurIPS, ICML, ICLR, CVPR, ACL, IEEE, ACM, Springer, Elsevier, and others.
@@ -40,10 +40,9 @@ TeX2Vid converts a LaTeX source into a narrated video presentation. **Every figu
 ## Get started
 
 1. Go to **[tex2vid.sheqai.com](https://tex2vid.sheqai.com)**
-2. Upload your LaTeX source or paste an arXiv link.
-3. Pick a format, audience, and voice.
-4. Render — then share, or publish to **[ScholarReels](https://scholarreels.com).** <img width="787" height="145" alt="image" src="https://github.com/user-attachments/assets/674efc65-30e2-4470-b858-3d5d70aae966" />
-
-[https://scholarreels.com](https://scholarreels.com)
+2. Upload your LaTeX source.
+3. Pick a video format (Research Teaser, Short, Highlight, or Video Abstract) , audience, and voice (default AI voice or record your own voice).
+4. Render — then share to social media or conferences or journal.
+5. You can consider submitting to **[ScholarReels](https://scholarreels.com).** <img width="787" height="145" alt="image" src="https://github.com/user-attachments/assets/674efc65-30e2-4470-b858-3d5d70aae966" /> It may be included if it fulfills the criteria **[Terms](https://scholarreels.com/reels/terms)**.
 
 -------
