@@ -39,7 +39,7 @@ TeX2Vid converts a LaTeX source into a narrated video presentation. **Every figu
 1. Go to **[tex2vid.sheqai.com](https://tex2vid.sheqai.com)**
 2. Upload your LaTeX source.
 3. Pick a video format (Research Teaser, Short, Highlight, or Video Abstract), audience, and voice (default AI voice or record your own voice).
-4. Render — then share to social media, or conferences and journals.
+4. Render — then share to social media, conferences, or journals.
 5. You may consider submitting to **[ScholarReels](https://scholarreels.com);** the video may be included if it meets the criteria set out in the **[Terms](https://scholarreels.com/reels/terms)**.
 
   
