@@ -2,7 +2,7 @@
 
 # SheQAI's TeX2Vid Tool 
 
-**Converts a LaTeX paper into a narrated, source-grounded video — in minutes.**
+**TeX2Vid turns a LaTeX paper into a narrated, source-grounded video in minutes.**
 
 [![Website](https://img.shields.io/badge/Try_it-tex2vid.sheqai.com-00b4d8?style=flat&logo=googlechrome&logoColor=white)](https://tex2vid.sheqai.com)
 [![Watch Examples on ScholarReels](https://img.shields.io/badge/Watch-Examples_on_ScholarReels-df8b5e?style=flat)](https://scholarreels.com)
@@ -29,7 +29,7 @@ TeX2Vid converts a LaTeX source into a narrated video presentation. **Every figu
 ## Features
 
 - 🔗 **Grounded & verifiable** — claims traced to source paper.
-- 🎙️ **AI narration or your own voice** — record yourself or use AI synthesized speech.
+- 🎙️ **AI narration or your own voice** — record yourself or use AI-synthesized speech.
 - 🎨 **Configurable Beamer themes** and researcher / general-public audience settings.
 - 📚 **Broad field support** — CS, ML, NLP, CV, math, physics, statistics, EE, biology, economics, and more.
 - 📄 **Template-compatible** — works with Nature, Science, PNAS, NeurIPS, ICML, ICLR, CVPR, ACL, IEEE, ACM, Springer, Elsevier, and others.
@@ -38,10 +38,9 @@ TeX2Vid converts a LaTeX source into a narrated video presentation. **Every figu
 
 1. Go to **[tex2vid.sheqai.com](https://tex2vid.sheqai.com)**
 2. Upload your LaTeX source.
-3. Pick a video format (Research Teaser, Short, Highlight, or Video Abstract) , audience, and voice (default AI voice or record your own voice).
-4. Render — then share to social media or conferences or journal.
-5. You may consider submitting to **[ScholarReels](https://scholarreels.com);** the video may be included if it fulfills the criteria **[Terms](https://scholarreels.com/reels/terms)**.
+3. Pick a video format (Research Teaser, Short, Highlight, or Video Abstract), audience, and voice (default AI voice or record your own voice).
+4. Render — then share to social media, or conferences and journals.
+5. You may consider submitting to **[ScholarReels](https://scholarreels.com);** the video may be included if it meets the criteria set out in the **[Terms](https://scholarreels.com/reels/terms)**.
 
-   <img width="787" height="145" alt="image" src="https://github.com/user-attachments/assets/674efc65-30e2-4470-b858-3d5d70aae966" />
-
+  
 -------
