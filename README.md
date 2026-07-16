@@ -2,7 +2,7 @@
 
 # SheQAI's TeX2Vid Tool 
 
-**Converts your LaTeX paper into a narrated, source-grounded video — in minutes.**
+**Converts a LaTeX paper into a narrated, source-grounded video — in minutes.**
 
 [![Website](https://img.shields.io/badge/Try_it-tex2vid.sheqai.com-00b4d8?style=flat&logo=googlechrome&logoColor=white)](https://tex2vid.sheqai.com)
 [![Watch Examples on ScholarReels](https://img.shields.io/badge/Watch-Examples_on_ScholarReels-df8b5e?style=flat)](https://scholarreels.com)
